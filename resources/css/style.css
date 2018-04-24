@@ -25,10 +25,9 @@
     
     .name_header_main {
         font-family: Mono, monospace;
-        font-size: 65px;
+        font-size: 63px;
         color: #34A853;
         text-align:center;
-        letter-spacing: 2px;
     }
     .name_header_sub {
         font-family: Mono, sans-serif;
