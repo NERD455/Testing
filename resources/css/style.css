@@ -9,7 +9,7 @@
     .page_banner {
         background-color: rgb(60, 60, 60);
         width: 100%;
-        height: 800px;
+        height: auto;
         border-bottom: 3px solid #34A853;
         text-align:center;
     }
