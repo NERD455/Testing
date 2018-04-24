@@ -27,6 +27,7 @@
         font-family: Montserrat, sans-serif;
         font-size: 65px;
         color: #34A853;
+        text-align:center;
     }
     .name_header_sub {
         font-family: Montserrat, sans-serif;
@@ -34,6 +35,7 @@
         color: #34A853;
         font-size: 25px;
         color: white;
+        text-align:center;
     }
     
     .links_banner {
