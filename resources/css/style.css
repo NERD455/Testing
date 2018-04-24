@@ -92,6 +92,12 @@
         color: rgb(187, 8, 187);
         text-align: center;
     }
+    .remember_abt {
+        font-size: 25px;
+        font-family: Mono, sans-serif;
+        color: rgb(128, 206, 168);
+        text-align: center;
+    }
     
     .page_contact__me {
         background-color: rgb(60, 60, 60);
