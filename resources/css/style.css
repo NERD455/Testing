@@ -63,7 +63,12 @@
     .about_contents_small {
         font-size: 17px;
         font-family: Mono, sans-serif;
-        color: #7B0099
+        color: #7B0099;
+    }
+    .skill_contents_small {
+        font-size: 17px;
+        font-family: Mono, sans-serif;
+        color: #CD5C5C;
     }
     
     .skillset_contents {
