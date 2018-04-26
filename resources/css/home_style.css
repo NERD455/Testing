@@ -65,4 +65,8 @@
         text-align: center;
         color: #fff;
     }
+    .row-picture {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
 }
