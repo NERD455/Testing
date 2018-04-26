@@ -63,9 +63,4 @@
         text-align: center;
         color: #fff;
     }
-    .row-picture {
-        display: inline-block;
-        vertical-align: middle;
-        margin-right: 50%;
-    }
 }
