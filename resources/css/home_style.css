@@ -1,18 +1,20 @@
 .header_bg {
-    background-color: #66CDAA;
+    background-color: #00BFFF;
     width: 100%;
     height: auto;
 }
 
 .header_me_round {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
+    padding: 3px;
+    background-color: white;
 }
 
 .row-picture {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 10px;
+    margin-right: 20px;
     margin-left: 40px;
 }
 
@@ -28,17 +30,36 @@
 }
 
 .links_banner {
-    color: white;
+    border-radius: 100%;
+    text-align: center;
     font-size: 30px;
+    padding: 5px;
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    background: rgb(255, 255, 255);
+    color: #00BFFF;
+}
+
+.links_banner:hover {
+    color: white;
+    background: rgb(255, 255, 255, 0);
+}
+
+.links_banner:focus {
+    color: black;
+}
+
+.headder_button {
+    font-size: 18px;
+    color: white;
+}
+
+.headder_button:hover {
+    color: black;
 }
 
 @media screen and (max-width: 600px) {
-    .row-picture {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
     .row-details {
         display: block;
         text-align: center;
